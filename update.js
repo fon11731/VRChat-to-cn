@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VRChat官网汉化
 // @namespace    vrc-to-cn
-// @version      6.9
+// @version      7.0
 // @description  VRChat官网汉化脚本
 // @author       fon11731
 // @match        *://vrchat.com/*
