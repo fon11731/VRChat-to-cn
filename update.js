@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         VRChat官网汉化
+// @name         VRChat汉化
 // @namespace    vrc-to-cn
-// @version      7.0
+// @version      7.1
 // @description  VRChat官网汉化脚本
 // @author       fon11731
 // @match        *://vrchat.com/*
 // @icon         https://assets.vrchat.com/www/favicons/favicon.ico
 // @grant        none
 // @license MIT
-// @downloadURL  https://raw.githubusercontent.com/fon11731/VRChat-to-cn/refs/heads/main/user.js
+// @downloadURL  https://raw.githubusercontent.com/fon11731/VRChat-to-cn/refs/heads/main/update.js
 // @updateURL    https://raw.githubusercontent.com/fon11731/VRChat-to-cn/refs/heads/main/update.js
 // ==/UserScript==
 
